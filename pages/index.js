@@ -1,10 +1,6 @@
 function Home(){
     return <h1>
-        <h2>Oi Gatinha</h2>
-         Só passei para te dizer que TE AMO ...
-        
-         muito mais 
-         
+       Bora falar de Macumba
          
          </h1>
 }
